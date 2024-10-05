@@ -10,6 +10,6 @@ Estamos tomando en cuenta el año 2021 de todas las datas utilizadas
 | Personas Desempleadas con Educación Avanzada (% del desempleo)  | PDEA        | Cuantitativa continua       |
 | Fuerza Laboral Total                                           | FLT         | Cuantitativa continua       |
 | Esperanza de Vida al Nacer (años)                              | EVN         | Cuantitativa continua       |
-| Índice de GINI                                                 | IG          | Cuantitativa continua       |
+| Índice de GINI                                                 | IG         | Cuantitativa continua       |
 Variable Dependiente: Índice de Equidad de Género (IEQG)
 Variable de Control: Población Total Mujeres (PM)
